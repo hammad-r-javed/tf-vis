@@ -1,4 +1,6 @@
+IGNORE/
 .DS_Store
+*.swp
 compiled/
 /doc/
 *~
